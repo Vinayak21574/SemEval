@@ -1,3 +1,13 @@
+Emotion plays a vital role in human conversations. Our task
+is to predict the cause of a particular emotion in the
+conversations. Conversation in a natural form is multimodal.
+Multimodal is especially for discovering both emotions and
+their cause. That is why two types of models are combined,
+which would predict the emotion of the utterance and the
+cause of the utterance.
+
+
+
 Dataset [Link][1] 
 
 
